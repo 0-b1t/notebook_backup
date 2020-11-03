@@ -1,0 +1,1 @@
+I have several old email addresses. I have used them for sign ups etc and it seems impossible to just close them. I want to transition to a more private, paid email address.Have you managed to transition off and gracefully deprecate old email addresses? How?

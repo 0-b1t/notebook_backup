@@ -1,0 +1,1 @@
+I think it would be great to have a space where people could discuss interesting papers and/or projects related to a topic of their choice.For me, I'd love to join a community to discuss topics/ideas in functional programming, ML-family languages, etc.Do people have any suggestions on platforms that they've used that have worked in the past?

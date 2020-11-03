@@ -1,0 +1,3 @@
+I started to download some private thoughts and notes in a public bare GitHub repo.I find it a good storage medium for some of my notes, bookmarks, lists.
+And has benefits such as being able to simply link to my thoughts rather than composing the n-th email about the same subject.Over time I also want to throw in code i have laying around, host my CV and maybe make it my homepage.Is this a thing people do? Does this thing have a name?GHB would be the natural acronym and that would be a terrible idea.P.S. Thank you HN for being a place where I can ask this question and knowing people get it. I appreciate the feeling of community.
+P.P.S. If you're reading this and thinking: PURDAH. Call me

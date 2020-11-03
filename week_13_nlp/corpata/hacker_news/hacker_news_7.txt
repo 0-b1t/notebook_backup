@@ -1,0 +1,3 @@
+The browser world is moving forward very fast it is hard to keep tap on what is going on.
+For instance I missed this:
+https://developers.google.com/web/updates/2020/07/referrer-p...Does some kind of site exists that gathers news about browser updates exist?

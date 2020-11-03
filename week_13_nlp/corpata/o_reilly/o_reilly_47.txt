@@ -1,0 +1,1 @@
+A Bug-Sized Camera for Bug-Sized Robots and Bug-Sized Bugs &#8212; With a focus on small size and efficiency, they started with an off-the-shelf ultra low-power image sensor that’s 2.3 mm wide and weighs 6.7 mg. They stuck on a Bluetooth 5.0 chip (3 mm wide, 6.8 mg), and had a fun time connecting those two [&#8230;]

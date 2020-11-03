@@ -1,0 +1,1 @@
+Too Efficiency &#8212; (Tim Bray) Think of efficiency as optimising for one variable. As anyone who has seen a greyhound or a dalmation up close knows, optimising for one aspect of a complex system can weaken other aspects. Tim cites software security, food, work hours, and others. The best optimisation advice I received was &#8220;never [&#8230;]

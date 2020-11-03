@@ -1,0 +1,1 @@
+Notes on Splicing CRDTs for Structured Hypertext &#8212; It’s a great feeling, seeing everyone around you create beautiful 3D graphical masterpieces or fully complete web applications while you spend twelve hours a day struggling to read technical papers that you don’t even understand. This is what happens when you attempt to do things with CRDTs. [&#8230;]

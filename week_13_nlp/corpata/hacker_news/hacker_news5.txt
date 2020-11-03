@@ -1,0 +1,1 @@
+Today the Raspberry Pi 400 has been released. Considering that Apple is embracing ARM, I wonder if a similar device would be a successful entry-level product.

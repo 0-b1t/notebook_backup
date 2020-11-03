@@ -1,0 +1,1 @@
+It's now pretty clear that learning is more effective when you have a larger dataset of examples. Why are programing documentations only showing one example per function, if any, instead of dozens?

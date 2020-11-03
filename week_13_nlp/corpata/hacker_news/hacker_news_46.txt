@@ -1,0 +1,1 @@
+I see that some don't like cross-platform UI toolkits because they fail to make the app look native to their respective platforms.Why don't we just create a UI theme specific to the business. Therefore you keep the same consistency between platforms without having to worry about looking native?Nobody complains when the UI of a mobile game doesn't look native.

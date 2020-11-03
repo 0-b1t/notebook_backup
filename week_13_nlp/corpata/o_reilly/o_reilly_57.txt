@@ -1,0 +1,1 @@
+Avoiding Fallback in Distributed Systems &#8212; In this article, the focus will be on how fallback strategies can cause more problems than they fix. We’ll include examples of where fallback strategies have caused problems at Amazon. Finally, we’ll discuss alternatives to fallback that we use at Amazon. So You Want to Build an Observability Tool [&#8230;]

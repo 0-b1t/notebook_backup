@@ -1,0 +1,12 @@
+I’ve been thinking through what has recently been the biggest pain in the ass in the recent react project I did, and id like to know if I’m crazy or if we did this wrong.We have a few thousand lines of code specifically for managing users and a simple wrapper around our dynamo backend.We couldn’t find a react component for login flows, so we build all this logic ourselves- login page w/ social login
+- register page
+- logout 
+- logic for redirecting you if you were already logged in
+- logic for redirecting you to login if you aren’t logged in 
+- forgot password
+- verify
+- demo user account
+- notifying users of password requirements
+- handling failed registration 
+- handling failed logins 
+- handling google social loginWe integrated with cognito and dynamo, but I think that even with firebase or aws amplify we would have had to write a lot of the logic ourselves.Did we do something wrong? Is this just what you have to do to get logins and a per user backend working?

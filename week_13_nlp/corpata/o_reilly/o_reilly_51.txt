@@ -1,0 +1,1 @@
+Fixing Bugs Properly &#8212; Why did a fix that seems so simple when looking at the changes made take two days to complete? Good programmers leave things better than they found them. Data Structures and Algorithms I Actually Use &#8212; This article is a set of real-world examples where data structures like trees, graphs, and [&#8230;]

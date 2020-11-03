@@ -1,0 +1,1 @@
+We seem stuck in a very old way of writing software. If you were to reinvent it, what would it look like?

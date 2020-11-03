@@ -1,0 +1,1 @@
+Matters Computational: Ideas, Algorithms, Source Code &#8212; Interesting book about how to do things at the low level. This is a book for the computationalist, whether a working programmer or anyone interested in methods of computation. The focus is on material that does not usually appear in textbooks on algorithms. It&#8217;s the kind of book [&#8230;]

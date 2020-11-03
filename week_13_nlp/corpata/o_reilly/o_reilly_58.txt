@@ -1,0 +1,1 @@
+When Data is Messy &#8212; I love stories that illustrate the ways machine learning can draw the wrong conclusions. Researchers at the University of Tuebingen trained a neural net to recognize images, and then had it point out which parts of the images were the most important for its decision. When they asked it to [&#8230;]
